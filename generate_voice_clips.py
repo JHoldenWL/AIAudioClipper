@@ -36,8 +36,8 @@ def split_audio_into_sentences(audio_file, output_directory):
         chunk.export(os.path.join(output_directory, f"chunk_{i}.wav"), format="wav")
 
 def main():
-    audio_file = r"C:\Users\Hyde\Desktop\Voice Clips\input_audio.wav"  # Input audio file path
-    output_directory = r"C:\Users\Hyde\Desktop\bub games\voice_clips"  # Output directory path
+    audio_file = r"C:\Users\(User)\Desktop\Voice Clips\input_audio.wav"  # Input audio file path
+    output_directory = r"C:\Users\(User)\Desktop\bub games\voice_clips"  # Output directory path
 
     recognized_text = recognize_sentences(audio_file)
     split_audio_into_sentences(audio_file, output_directory)
