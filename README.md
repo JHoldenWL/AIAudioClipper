@@ -1,6 +1,1 @@
-Still a WIP!
-
-Just a fun project for school. 
-For inquires DM me at Discord: comesthewolflamb
-
-Uses Google Speech Recognition. 
+Nadal WIP! Po prostu fajny projekt dla szkoły. Jeśli masz pytania, napisz do mnie na Discordzie: comethewolflamb korzysta z rozpoznawania mowy Google.
